@@ -1,5 +1,7 @@
 # Netflix-Movies-and-TV-Shows-Data-Analysis
 # **Netflix Movies and TV Shows Data Analysis**  
+![image](https://github.com/user-attachments/assets/109aa11e-394d-4a9e-a7a4-23cb4b433c4b)
+
 
 # **1. Overview**  
 Netflix is one of the world's leading streaming platforms, offering a vast library of movies and TV shows across various genres and countries. With increasing competition in the streaming industry, understanding content trends, audience preferences, and production strategies is crucial for business growth and user engagement.  
