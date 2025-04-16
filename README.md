@@ -109,7 +109,8 @@ GROUP BY type;
 ```
 
 **Answer**:
-[To be filled]
+![image](https://github.com/user-attachments/assets/731f8d18-6609-418c-9313-204c320f8991)
+
 
 ---
 
@@ -142,7 +143,8 @@ WHERE ranking = 1;
 ```
 
 **Answer**:
-[To be filled]
+![image](https://github.com/user-attachments/assets/a5746e96-c3f2-4210-8dd6-9dadbde43d82)
+
 
 --- 
 ## Question 3  
@@ -161,7 +163,8 @@ WHERE release_year = '2020';
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/9b487dd5-9759-4979-b1e1-7bde4ac0dec2)
+
 
 ---
 
@@ -186,7 +189,8 @@ ORDER BY count_content DESC;
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/b98a9b6e-09e1-4684-bd05-cc03850cde7b)
+ 
 
 ---
 
@@ -215,7 +219,8 @@ ORDER BY duration_split DESC;
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/7e19e648-3c47-46f8-b3d5-2e844bcdc5fb)
+ 
 
 ---
 
@@ -235,7 +240,7 @@ WHERE DATEDIFF(YEAR, date_added, GETDATE()) = 5;
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/a7d4e698-8c5e-4db2-984b-ccc578d04265)
 
 ---
 
@@ -255,7 +260,8 @@ WHERE director = 'Rajiv Chilaka';
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/f3dc6aeb-1ee0-4e8d-bccf-11f6eb5de264)
+ 
 
 ---
 
@@ -291,7 +297,8 @@ ORDER BY duration_split DESC;
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/767bd0d8-a0a1-4d87-985a-58c8fe9f272d)
+
 
 ---
 
@@ -320,7 +327,8 @@ ORDER BY value_count DESC;
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/2b7aa5c8-a916-47c7-bda8-145b6c035e9a)
+
 
 ---
 
@@ -351,7 +359,8 @@ ORDER BY avg_release DESC;
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/cbfc76aa-1b94-4bb7-a90a-569112b935c5)
+  
 
 
 ---
@@ -377,7 +386,8 @@ WHERE genre = 'Documentaries';
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/7ddd88c2-e3b1-421a-b413-552eaffcfa73)
+  
 
 ---
 
@@ -397,7 +407,8 @@ WHERE director IS NULL;
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/deed4fc2-0dba-41a2-b306-b5f448482e0a)
+  
 
 ---
 
@@ -424,7 +435,8 @@ WHERE actor = 'Salman Khan'
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/7326dbe1-1dcd-4af4-b52c-619710dbcf46)
+
 
 ---
 
@@ -456,7 +468,8 @@ ORDER BY actor_count DESC;
 ```
 
 **Answer**:  
-[To be filled]  
+![image](https://github.com/user-attachments/assets/e7ddf838-2aa1-4595-b608-1c3b5c5adf26)
+ 
 
 ---
 
@@ -491,6 +504,7 @@ ORDER BY cate_count DESC;
 ```
 
 **Answer**:  
+![image](https://github.com/user-attachments/assets/8465269d-a84f-4b03-be8a-3a1e85fcf6af)
 
 
 ---
